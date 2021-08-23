@@ -19,6 +19,7 @@ main {
     height: 100%;
     width: 80%;
     margin: 0;
+    padding: 0;
 }
 .main_picture {
     height: 100%;
@@ -35,6 +36,7 @@ main {
 /*    height: 500px;*/
     height: auto;
     margin: 0;
+    padding: 0;
     background-color: beige;
 }
 #left_arrow {

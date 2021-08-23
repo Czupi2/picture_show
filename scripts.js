@@ -38,7 +38,7 @@ let title_height=1;
 let title_font_height="100%";
 
 function main_picture_draw(picture_target) {
-     $(".main_picture").css('max-width',max_main_picture_width); //in order to avoid the horizontal overspread of the main picture 
+//     $(".main_picture").css('max-width',max_main_picture_width); //in order to avoid the horizontal overspread of the main picture 
      $(".main_picture").attr('src',photo_directory+picture_target);
 };
 
@@ -86,7 +86,7 @@ function screen_adjusting() {
     main_height=max_window_height*0.8;
     main_reference_height=main_height;
     main_picture_height=main_height;
-    max_main_picture_width=Math.round(max_window_width*0.8);
+    max_main_picture_width=Math.round(max_window_width*0.8-2*0.02);
     main_reference_width=Math.round(max_window_width*(0.8-2*0.02))
     arrows_height=main_height;
     arrows_width=(max_window_width*0.1);
@@ -109,8 +109,8 @@ function screen_adjusting() {
 /*    $("#left_arrow").css('top',left_arrow_height*0.75);*/
     $(".title_text").css('height',title_text_height);
     $(".description_text").css('height',description_text_height);
-    $(".title_text").css('width',main_reference_width);
-    $(".description_text").css('width',main_reference_width);
+/*    $(".title_text").css('width',main_reference_width);
+    $(".description_text").css('width',main_reference_width);*/
     $(".title_text").css('top',main_picture_height-title_text_height-description_text_height);
     $(".description_text").css('top',main_picture_height-description_text_height);
 /*    $(".title_text").css('left',arrows_width);*/
