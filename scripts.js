@@ -11,7 +11,7 @@ let pictures_data=[
     {photo:"20090531_143828FirenzeUffizi.jpg",title:"Firenze: Uffici képtár2",description:"Az Uffizi Képtárat 1581-ben alapították Firenze történelmi központjában. Az első gyűjteményeket a Mediciek bőkezű mecenatúrája hozta létre."},
     {photo:"20090531_154650FirenzeKatedralisEsHarangTorony.jpg",title:"Firenzei katedrális a harangtoronnyal",description:"A firenzei dóm elég érdekes neogót homlokzattal rendelkezik, amelynek mintáját a torony is átvette."},
     {photo:"20090601_114756RomaForumRomanum.jpg",title:"Róma: Forum Romanum",description:"A Forum Romanumnál ókori régészeti maradványokat láthatunk."},
-    {photo:"20090601_115930RomaRomulusEsRemus.jpg",title:"Róma: Romulus és Remus szobra ljkjgl fghk mfhm klf dk hnjkhnonj r erer h",description:"Rómában központi helyen áll a hagyomány szerinti városalapítók szobra. A történet igazságáról alatta mindenki elmélázhat. db bd h hdbg kdk jjk njkhkjg hejt njehljen ljen lkethlkehlelh eltkhlekt he hek hk"},
+    {photo:"20090601_115930RomaRomulusEsRemus.jpg",title:"Róma: Romulus és Remus szobra",description:"Rómában központi helyen áll a hagyomány szerinti városalapítók szobra. A történet igazságáról alatta mindenki elmélázhat."},
     {photo:"20090601_123440RomaPantheon.jpg",title:"Róma: Pantheon",description:"A Pantheonba nem csak az antik világ nagy embereit temették, hanem a XX. század olasz szocialistáit is megtalálhatjuk."},
     {photo:"20090601_130930RomaAngyalvar.jpg",title:"Róma: Angyalvár",description:"A valamikori pápai fellegvár, ma már múzeumként szolgál Rómában."},
     {photo:"20090601_131948VatikanSzentPeterBazilika.jpg",title:"Vatikán: Szent Péter Bazilika",description:"A katolikus egyház központja, a Pápa székhelye egyben a legmagasabb egyházi épület a világon."},
